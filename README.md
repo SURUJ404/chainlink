@@ -382,6 +382,8 @@ For more tips on how to build and test Chainlink, see our [development tips page
 
 ### Contributing
 
+Feeds: https://docs.chain.link/data-feeds/deprecating-feeds?categories=Crypto
+
 Contributions are welcome to Chainlink's source code.
 
 Please check out our [contributing guidelines](./docs/CONTRIBUTING.md) for more details.
